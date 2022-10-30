@@ -1,0 +1,21 @@
+{
+    "Invite": "qV65a44T",
+    "Tasks": [
+        {
+            "Task-2": {
+                "Time": "Task took 1.74 seconds",
+                "Token": "OTM0NTMzODM2NDQyODQxMDg4.YgAzFg.xLHK7j84zlYejfj7wbd7oZVHPnc",
+                "Proxy": "uk1.rnet.works:5959:RPG_272110-cc-prvtuk-sid-74351971:84601319",
+                "Status": "Successful"
+            }
+        },
+        {
+            "Task-1": {
+                "Time": "Task took 2.1 seconds",
+                "Token": "OTM0NTMzNzA4MjY5MTAxMTA2.YgBAVQ.1uFGDICI8hHJJQju9lvSvvFp1U4",
+                "Proxy": "uk1.rnet.works:5959:RPG_272110-cc-prvtuk-sid-92536292:84601319",
+                "Status": "Successful"
+            }
+        }
+    ]
+}
