@@ -1,0 +1,34 @@
+{
+  "user_settings": {
+    "license_key": "Bot-3A4F-43AD-A9C0-FA222A4BFA53",
+    "delay": "2-5",
+    "thread_count": "1",
+    "webhook_url": "https://discord.com/api/webhooks/..."
+  },
+  "captcha_settings": {
+    "provider": "2captcha",
+    "api_key": "584d111dcc..."
+  },
+  "invite_joiner_settings": {
+    "webhook_url": "",
+    "delay": "",
+    "thread_count": ""
+  },
+  "giveaway_joiner_settings": {
+    "webhook_url": "",
+    "delay": "2-5",
+    "thread_count": "15"
+  },
+  "chat_bot_settings": {
+    "show_message_log": "false",
+    "webhook_url": "",
+    "delay": "2-5",
+    "thread_count": "2",
+    "dialog_mode": {
+      "use_mode": "true",
+      "send_once": "true",
+      "delay": "2-5",
+      "messages": "25"
+    }
+  }
+}
