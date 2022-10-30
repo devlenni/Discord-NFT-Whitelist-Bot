@@ -4,7 +4,7 @@ Stopped this project because I don't had time anymore. You can use this project 
 
 This Bot have modules like:
 
-AIO Monitor - Monitors all Servers and Channels for Games and Giveaways
+AIO Monitor - Monitors all Servers and Channels for Games and Giveaways\n
 Bio Changer - Changes Bio
 Chat Bot - Automatically reply or send messages in chat
 Giveaway Checker - Check if you won a giveaway
