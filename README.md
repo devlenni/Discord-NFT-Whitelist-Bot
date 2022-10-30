@@ -39,3 +39,4 @@ Token Checker - Check if tokens are clipped/working
 Token Cleaner - Clean tokens (Leave servers, delete friends, delete dm's, change hypesquad)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Token Manager - Extract Tokens, Extract Proxies, Delete Proxies, Update Proxies
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
