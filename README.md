@@ -5,7 +5,7 @@ Stopped this project because I don't had time anymore. You can use this project 
 Sorry for the messy code this was just a bot for myself.
 
 
-This Bot have a CLI (with licensing, anticrack, autoupdate)
+This is/was a fully working Bot with CLI etc.
 This Bot have modules like:
 
 AIO Monitor - Monitors all Servers and Channels for Games and Giveaways
