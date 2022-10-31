@@ -1,7 +1,11 @@
 # Discord-NFT-Whitelist-Bot
+This is a Discord NFT Whitelist bot, a bot you can run with proxies and discord accounts(tokens) to receive NFT Whitelist roles or win giveaways/games on Discord much easier and on multiple accounts/tokens for selling or using to mint the NFT's.
+
 Stopped this project because I don't had time anymore. You can use this project however you want. **Probably Outdated** didn't tested it since some months.
+Sorry for the messy code this was just a bot for myself.
 
 
+This Bot have a CLI (with licensing, anticrack, autoupdate)
 This Bot have modules like:
 
 AIO Monitor - Monitors all Servers and Channels for Games and Giveaways
